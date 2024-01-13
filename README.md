@@ -15,7 +15,7 @@ QRCode-scanner use OpenCV2 with GPU support, all scanned qr-codes will be shown 
 1. Registered qr-code will shown the data (username, full name, address, scanned location
 2. Unregistered qr-code will be appeared as "Tidak terdaftar"
    
-However, unfortunately this is just prototype so it comes without admin dashboard what so ever. 
+However, unfortunately this is just prototype so it comes without admin dashboard whatsoever. 
 
 Oke thats all hope you find something useful
 
