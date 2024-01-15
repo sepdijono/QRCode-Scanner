@@ -7,8 +7,7 @@
 
 Notes: I use same environment for these two repos
 
-
-![Selection_611](https://github.com/sepdijono/QRCode-Scanner/assets/54463742/f8d3dad3-1442-4807-b9e7-1535f61d9ec1)
+![Selection_613](https://github.com/sepdijono/QRCode-Scanner/assets/54463742/4cde3201-41e6-4929-945f-453154904f86)
 
 
 QRCode-scanner use OpenCV2 with GPU support, all scanned qr-codes will be shown in a box with respective data on it. There is only two qr-code types: 
