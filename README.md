@@ -18,6 +18,11 @@ scan_multiple_cam.py : this version implements multiple camera image processing 
 This output come from scan_multiple_cam.py
 ![Workspace 1_007](https://github.com/sepdijono/QRCode-Scanner/assets/54463742/a13f751c-28bd-4809-80a3-f58e61081878)
 
+This output come from scan_user_attendance.py
+![Selection_886](https://github.com/sepdijono/QRCode-Scanner/assets/54463742/856bf0f5-2c2d-4aaf-889d-8a8620c1267c)
+
+
+
 
 QRCode-scanner use OpenCV2 with GPU support, all scanned qr-codes will be shown in a box with respective data on it. There is only two qr-code types: 
 1. Registered qr-code will shown the data (username, full name, address, scanned location)
