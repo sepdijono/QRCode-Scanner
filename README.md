@@ -1,6 +1,6 @@
 # QRCode-Scanner
 
-**This project consists two repositoris** 
+**This project consists two repositories** 
 
 * QRCode-Scanner, contains "scanner-side" (this repo)
 * QRCode-Server, contains "server-side"
